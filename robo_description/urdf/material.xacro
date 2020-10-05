@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<robot name="two_wheel" xmlns:xacro="https://www.ros.org/wiki/xacro" >
+  <material name="black">
+    <color rgba="0.0 0.0 0.0 1.0"/>
+  </material>
+  <material name="blue">
+    <color rgba="0.2 0.24 0.28 1.0"/>
+  </material>
+  <material name="green">
+    <color rgba="0.0 0.8 0.0 1.0"/>
+  </material>
+  <material name="grey">
+    <color rgba="0.2 0.2 0.2 1.0"/>
+  </material>
+  <material name="orange">
+    <color rgba="1.0 0.42 0.04 1.0"/>
+  </material>
+  <material name="brown">
+    <color rgba="0.87 0.8 0.76 1.0"/>
+  </material>
+  <material name="red">
+    <color rgba="0.8 0.13 0.133 1.0"/>
+  </material>
+  <material name="white">
+    <color rgba="1.0 1.0 1.0 1.0"/>
+  </material>  
+</robot>
